@@ -5,6 +5,10 @@
 Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 
 
+* [Temario del curso (whimsical)](https://whimsical.com/temario-machine-learning-y-deep-learning-QRJaTfDhrxB2XEPsqxDDr4)
+* [Syllabus del curso]()
+
+
 # Unidades 
 
 Attempt | #1 | #2 | #3 | 
@@ -15,7 +19,7 @@ Seconds | 301 | 283 | 290 |
 
 
 
-# Fuentes
+# Fuentes y herramientas a utilizar en el curso:
 
 Tema al que hace referencia | Recurso | Aportación al proceso de aprendizaje
 --- | --- | --- |
