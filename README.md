@@ -11,9 +11,9 @@ Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 
 # Unidades 
 
-|Unidad                     | Notebook | Data |
-|---------------------------|----------|------| 
-|Introducción a los tensores|          |      |
+|Unidad                     | Notebook FINAL | Notebook CLASE | Data |
+|---------------------------|----------------|----------------|------| 
+|Introducción a los tensores|                |                |      |
 
 
 
