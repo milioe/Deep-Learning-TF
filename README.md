@@ -11,9 +11,9 @@ Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 
 # Unidades 
 
-Attempt | #1 | #2 | #3 | 
+Unidad | Notebooks | #2 | #3 | 
 --- | --- | --- | --- |
-Seconds | 301 | 283 | 290 |
+Introducción a los tensores | 301 | 283 | 290 |
 
 
 
