@@ -14,7 +14,7 @@ Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 |Unidad                     | Notebook | Data |
 |---------------------------|----------|------| 
 |Introducción a los tensores|          |      |
-|---------------------------|----------|------|
+
 
 
 
