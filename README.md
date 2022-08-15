@@ -13,8 +13,8 @@ Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 
 Unidad | Notebooks | Data |
 ------------------------------| --- | --- |
-:Introducción a los tensores: | 301 | 283 |
-                              | 301 | 283 |
+ Introducción a los tensores  | 301 | 283 |
+^^                          ^^| 301 | 283 |
 ------------------------------| --- | --- |
 
 
