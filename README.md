@@ -32,3 +32,4 @@ NLP | [Embeding Projector](https://projector.tensorflow.org/) | Visualizar un em
 * [GPT-3](https://openai.com/api/)
 * [Stop Calling Everything AI, Machine-Learning Pioneer Says ](https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says)
 * [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/)
+* [Pandas CheatSheet](https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
