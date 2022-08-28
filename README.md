@@ -6,7 +6,6 @@ Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 
 
 * [Temario del curso (whimsical)](https://whimsical.com/temario-machine-learning-y-deep-learning-QRJaTfDhrxB2XEPsqxDDr4)
-* [Syllabus del curso]()
 
 
 # Unidades 
@@ -22,6 +21,9 @@ Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 
 Tema al que hace referencia | Recurso | Aportación al proceso de aprendizaje
 --- | --- | --- |
+Introducción teórica | [Exploring Neural Networks Visually in the Browser
+](https://cprimozic.net/blog/neural-network-experiments-and-visualizations/) | Exploración de redes neuronales
+Introducción teórica | [A visual proof that neural nets can compute any function](https://projector.tensorflow.org/) | Teorema de aproximación universal
 NLP | [Embeding Projector](https://projector.tensorflow.org/) | Visualizar un embedding
 
 
