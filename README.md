@@ -30,10 +30,8 @@ Introducción teórica | [NN SVG](http://alexlenail.me/NN-SVG/index.html)| Redes
 
 Regresión | [TensorFlow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.59859&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) | Entrenamiento de una red neuronal de forma interactiva 
 Clasificación | [Can a Model Be Differentially Private and Fair?](https://pair.withgoogle.com/explorables/private-and-fair/) | Artículo de clasificación de dígitos
-
-
+Convolucionales | [CNN Explainer](https://poloclub.github.io/cnn-explainer/) | Visualización de entrenamiento de una red convolucional así como sus hiperparámetros
 Tensores | [Matrix Multiplication](http://matrixmultiplication.xyz/) | Multiplicación de matrices de forma interactiva
-
 Secuenciales | [Embeding Projector](https://projector.tensorflow.org/) | Visualizar un embedding
 Secuenciales | [What have language model learned?](https://pair.withgoogle.com/explorables/fill-in-the-blank/) | Aprendizaje de modelos secuenciales
 
