@@ -10,10 +10,11 @@ Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 
 # Unidades 
 
-|Unidad                     | Notebook FINAL | Notebook CLASE | Data | Asignaciones |
-|---------------------------|----------------|----------------|------| -------------|
-| Google Colab | [Link](https://colab.research.google.com/drive/1CFFrZyvi9eZ219ZoeY9U1wf9vwo_5T3y?usp=sharing) | [Link](https://colab.research.google.com/drive/1ihk9ox8KAANMQK07ljZyiG3bggmzkYX0?usp=sharing) | | 
-|Introducción a los tensores|                |                |      |              |
+|Unidad                     | Notebook FINAL | Notebook CLASE | Slides | Data | Asignaciones |
+|---------------------------|----------------|----------------|--------|------| -------------|
+| Google Colab | [Link](https://colab.research.google.com/drive/1CFFrZyvi9eZ219ZoeY9U1wf9vwo_5T3y?usp=sharing) | [Link](https://colab.research.google.com/drive/1ihk9ox8KAANMQK07ljZyiG3bggmzkYX0?usp=sharing) | | |
+| Introducción teórica | | | [Agosto 29](https://github.com/milioe/Deep-Learning-TF/blob/main/Slides/Semana%201/Agosto29%20-%20Intro%20a%20DL.pdf) | | |
+
 
 
 
