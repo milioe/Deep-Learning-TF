@@ -18,7 +18,7 @@ Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 
 
 
-# Fuentes y herramientas a utilizar en el curso:
+# Herramientas a utilizar en el curso:
 
 Tema al que hace referencia | Recurso | Aportación al proceso de aprendizaje
 --- | --- | --- |
@@ -35,12 +35,17 @@ Secuenciales | [Embeding Projector](https://projector.tensorflow.org/) | Visuali
 Secuenciales | [What have language model learned?](https://pair.withgoogle.com/explorables/fill-in-the-blank/) | Aprendizaje de modelos secuenciales
 
 
+# Libros, artículos y fuentes adicionales:
+
+Recurso| Comentario
+--- | --- |
+[Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?fbclid=IwAR2TfPVUSPfQ6NprLyOz_jBaUKT2El-p7xAv0bZswD_sbGnSS5ewT7Z3YoY&r=c1qut) | |
+[Dalle Mini](https://huggingface.co/spaces/dalle-mini/dalle-mini) | |
+[GPT-3](https://openai.com/api/) | |
+[Stop Calling Everything AI, Machine-Learning Pioneer Says ](https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says) | | 
+[The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/) | |
+ [Pandas CheatSheet](https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) | |
 
 
 
-# Aportaciones extras y artículos de interes
-* [Dalle Mini](https://huggingface.co/spaces/dalle-mini/dalle-mini)
-* [GPT-3](https://openai.com/api/)
-* [Stop Calling Everything AI, Machine-Learning Pioneer Says ](https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says)
-* [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/)
-* [Pandas CheatSheet](https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+
