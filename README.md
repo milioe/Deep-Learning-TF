@@ -23,7 +23,7 @@ Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 Tema al que hace referencia | Recurso | Aportación al proceso de aprendizaje
 --- | --- | --- |
 Introducción teórica | [Exploring Neural Networks Visually in the Browser](https://cprimozic.net/blog/neural-network-experiments-and-visualizations/) | Exploración de redes neuronales
-Introducción teórica | [A visual proof that neural nets can compute any function](https://projector.tensorflow.org/) | Teorema de aproximación universal
+Introducción teórica | [A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html) | Teorema de aproximación universal
 Introducción teórica | [AI Notes](https://www.deeplearning.ai/ai-notes/) | Inicialización de redes neuronales de forma interactiva
 Introducción teórica | [Affine Transofmations](https://www.algorithm-archive.org/contents/affine_transformations/affine_transformations.html) | Transformaciones afínes junto con su explicación
 Introducción teórica | [NN SVG](http://alexlenail.me/NN-SVG/index.html)| Redes neuronales de forma interactiva
