@@ -44,7 +44,8 @@ Recurso| Comentario
 [GPT-3](https://openai.com/api/) | |
 [Stop Calling Everything AI, Machine-Learning Pioneer Says ](https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says) | | 
 [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/) | |
- [Pandas CheatSheet](https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) | |
+[Pandas CheatSheet](https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) | |
+[Stop Using the Occam’s Razor Principle](https://towardsdatascience.com/stop-using-the-occams-razor-principle-7281d143f9e6)| |
 
 
 
