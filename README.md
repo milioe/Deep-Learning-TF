@@ -10,9 +10,10 @@ Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 
 # Unidades 
 
-|Unidad                     | Notebook FINAL | Notebook CLASE | Slides | Data | Asignaciones |
-|---------------------------|----------------|----------------|--------|------| -------------|
-| Introducción teórica |[Intro a Colab](https://colab.research.google.com/drive/1CFFrZyvi9eZ219ZoeY9U1wf9vwo_5T3y?usp=sharing) |[Intro a Colab ](https://colab.research.google.com/drive/1dziiC3de6uEnU9VTFWOR7O7yqN5UEHJj?usp=sharing) | [Agosto 29](https://github.com/milioe/Deep-Learning-TF/blob/main/Slides/Semana%201/Agosto29%20-%20Intro%20a%20DL.pdf), [Agosto 30](https://github.com/milioe/Deep-Learning-TF/blob/main/Slides/Semana%201/Agosto30.pdf)| | |
+|Unidad                     | Notebook FINAL | Slides | Data | Asignaciones |
+|---------------------------|----------------|--------|------| -------------|
+| Introducción teórica |[Intro a Colab](https://colab.research.google.com/drive/1CFFrZyvi9eZ219ZoeY9U1wf9vwo_5T3y?usp=sharing)  | [Intro al curso](https://github.com/milioe/Deep-Learning-TF/blob/main/Slides/Semana%201/Introduccio%CC%81n%20al%20curso.pdf), [Intro teórica a DL](https://github.com/milioe/Deep-Learning-TF/blob/main/Slides/Semana%201/Introduccio%CC%81n%20teo%CC%81rica%20a%20Deep%20Learning.pdf)| | |
+| Tensores | [Intro a los tensores](https://colab.research.google.com/drive/1QOtrCXRr5gJmEVCMl_WREhbe0Uigiij8?usp=sharing) | [Tensores]() | | 
 
 
 
