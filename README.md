@@ -26,7 +26,7 @@ Tema al que hace referencia | Recurso | Aportación al proceso de aprendizaje
 Introducción teórica | [Exploring Neural Networks Visually in the Browser](https://cprimozic.net/blog/neural-network-experiments-and-visualizations/) | Exploración de redes neuronales
 Introducción teórica | [A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html) | Teorema de aproximación universal
 Introducción teórica | [AI Notes](https://www.deeplearning.ai/ai-notes/) | Inicialización de redes neuronales de forma interactiva
-Introducción teórica | [Affine Transofmations](https://www.algorithm-archive.org/contents/affine_transformations/affine_transformations.html) | Transformaciones afínes junto con su explicación
+Introducción teórica | [Affine Transformations](https://www.algorithm-archive.org/contents/affine_transformations/affine_transformations.html) | Transformaciones afínes junto con su explicación
 Introducción teórica | [NN SVG](http://alexlenail.me/NN-SVG/index.html)| Redes neuronales de forma interactiva
 Regresión | [TensorFlow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.59859&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) | Entrenamiento de una red neuronal de forma interactiva 
 Clasificación | [Can a Model Be Differentially Private and Fair?](https://pair.withgoogle.com/explorables/private-and-fair/) | Artículo de clasificación de dígitos
