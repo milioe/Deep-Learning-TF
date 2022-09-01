@@ -36,18 +36,25 @@ Secuenciales | [Embeding Projector](https://projector.tensorflow.org/) | Visuali
 Secuenciales | [What have language model learned?](https://pair.withgoogle.com/explorables/fill-in-the-blank/) | Aprendizaje de modelos secuenciales
 
 
+# Lecturas de cada semana
+| Semana | Link |
+|--------|------|
+| Semana 1 | [Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?fbclid=IwAR2TfPVUSPfQ6NprLyOz_jBaUKT2El-p7xAv0bZswD_sbGnSS5ewT7Z3YoY&r=c1qut), [How to Win at Deep Learning](https://www.quantamagazine.org/how-to-win-at-deep-learning-20171009/), [Real Artificial Intelligence: Understanding Extrapolation vs Generalization
+](https://towardsdatascience.com/real-artificial-intelligence-understanding-extrapolation-vs-generalization-b8e8dcf5fd4b#:~:text=This%20may%20also%20be%20referred,from%20a%20lower%2Ddimensional%20training) |
+
+
+
 # Libros, artículos y fuentes adicionales:
 
 Recurso| Comentario
 --- | --- |
-[Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?fbclid=IwAR2TfPVUSPfQ6NprLyOz_jBaUKT2El-p7xAv0bZswD_sbGnSS5ewT7Z3YoY&r=c1qut) | |
 [Dalle Mini](https://huggingface.co/spaces/dalle-mini/dalle-mini) | |
 [GPT-3](https://openai.com/api/) | |
 [Stop Calling Everything AI, Machine-Learning Pioneer Says ](https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says) | | 
 [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/) | |
 [Pandas CheatSheet](https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) | |
 [Stop Using the Occam’s Razor Principle](https://towardsdatascience.com/stop-using-the-occams-razor-principle-7281d143f9e6)| |
-[How to Win at Deep Learning](https://www.quantamagazine.org/how-to-win-at-deep-learning-20171009/)| |
+
 
 
 
