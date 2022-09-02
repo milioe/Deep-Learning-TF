@@ -54,6 +54,7 @@ Recurso| Comentario
 [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/) | |
 [Pandas CheatSheet](https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) | |
 [Stop Using the Occam’s Razor Principle](https://towardsdatascience.com/stop-using-the-occams-razor-principle-7281d143f9e6)| |
+[Combining heuristics with neural networks](https://portfolios.cs.earlham.edu/wp-content/uploads/2019/05/Combining_heuristics_with_neural_networks__488_3.pdf) | 
 
 
 
