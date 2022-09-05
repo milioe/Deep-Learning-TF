@@ -6,6 +6,7 @@ Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 
 
 * [Temario del curso (whimsical)](https://whimsical.com/temario-machine-learning-y-deep-learning-QRJaTfDhrxB2XEPsqxDDr4)
+* [Brilliant](https://brilliant.org/classroom/join/n7qq6i/)
 
 
 # Unidades 
