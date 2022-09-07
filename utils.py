@@ -100,5 +100,32 @@ def plot_boundaries_circles(model, X_train, y_train, X_test, y_test):
 
 
 
+def plot_loss_curves(history):
+  """
+  Regresa plot de cada una de las curvas de pérdida
+  """ 
+  loss = history.history['loss']
+  val_loss = history.history['val_loss']
+
+  accuracy = history.history['accuracy']
+  val_accuracy = history.history['val_accuracy']
+
+  epochs = range(len(history.history['loss']))
+
+  # Pérdida
+  plt.plot(epochs, loss, label='training_loss')
+  plt.plot(epochs, val_loss, label='val_loss')
+  plt.title('Loss')
+  plt.xlabel('Epochs')
+  plt.legend()
+
+  # Accuracy
+  plt.figure()
+  plt.plot(epochs, accuracy, label='training_accuracy')
+  plt.plot(epochs, val_accuracy, label='val_accuracy')
+  plt.title('Accuracy')
+  plt.xlabel('Epochs')
+  plt.legend();
+
 
   
