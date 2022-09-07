@@ -88,7 +88,7 @@ def plot_decision_boundary_circles(model, X, y):
 
 
 
-def plot_boundaries(model, X_train, y_train, X_test, y_test):
+def plot_boundaries_circles(model, X_train, y_train, X_test, y_test):
   plt.figure(figsize=(12, 6)) # establece size de figura
   plt.subplot(1, 2, 1) # subplot 1 (en set de train)
   plt.title("Train")
