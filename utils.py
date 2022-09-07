@@ -51,7 +51,7 @@ def plot_boundaries(model, X_train, y_train, X_test, y_test):
 
 
 
-def plot_boundaries_circles(model, X, y):
+def plot_decision_boundary_circles(model, X, y):
   """
   Imprime la toma de decisión del modelo
   Esta función ha sido adaptada de
@@ -84,6 +84,21 @@ def plot_boundaries_circles(model, X, y):
   plt.scatter(X[:, 0], X[:, 1], c=y, s=40, cmap=plt.cm.RdYlBu)
   plt.xlim(xx.min(), xx.max())
   plt.ylim(yy.min(), yy.max())
+
+
+
+
+def plot_boundaries(model, X_train, y_train, X_test, y_test):
+  plt.figure(figsize=(12, 6)) # establece size de figura
+  plt.subplot(1, 2, 1) # subplot 1 (en set de train)
+  plt.title("Train")
+  plot_decision_boundary_circles(model, X=X_train, y=y_train)
+  plt.subplot(1, 2, 2) # subplot 2 (en set de test)
+  plt.title("Test") # titulo
+  plot_decision_boundary_circles(model, X=X_test, y=y_test)
+  plt.show()
+
+
 
 
   
