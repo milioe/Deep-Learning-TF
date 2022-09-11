@@ -20,7 +20,7 @@ Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 | Convolucionales | [Clasificación de Comida](), [Clasificación de pinturas](), [Gradio: App](),  | [Convolucionales]() | | [`Señales de tráfico`](), [`Marca de coches`]()
 | Transfer Learning | [Feature Extraction](), [Fine Tunning](), [Scaling Up](), [Style Transfer]() | [Transfer Learning]() | [Asignación 4: La mejor pintura]() |
 | Secuenciales | [Clasificación de Tweets](), [Image Captioning](), [Precio de Apple](), [Store Sales]() | [Secuenciales]() | [Asignación 5: Sentimientos de Twitter]() |   [`Equipo 1: Financial Sentiment Analysis`](), [`Equipo 2: Amazon Reviews`](), [`Equipo 1: Precio de oro`](), [`Equipo 2: Pasajeros de aerolinea`]()
-| Proyecto final | [Gravity AI]() | | |
+| Proyecto final | [Gravity AI]() | | [Asignación 6: Proyecto final]() |
 
 
 
@@ -47,6 +47,7 @@ Secuenciales | [What have language model learned?](https://pair.withgoogle.com/
 |--------|------|
 | 1ra | [`Heuristics That Almost Always Work`](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?fbclid=IwAR2TfPVUSPfQ6NprLyOz_jBaUKT2El-p7xAv0bZswD_sbGnSS5ewT7Z3YoY&r=c1qut), [`How to Win at Deep Learning`](https://www.quantamagazine.org/how-to-win-at-deep-learning-20171009/), [`Real Artificial Intelligence: Understanding Extrapolation vs Generalization`](https://towardsdatascience.com/real-artificial-intelligence-understanding-extrapolation-vs-generalization-b8e8dcf5fd4b#:~:text=This%20may%20also%20be%20referred,from%20a%20lower%2Ddimensional%20training) |
 | 2da | [`Why are Data Scientists obsessed over this Graph?`](https://youtu.be/5e1vO6AwoQw), [`Learning to see, part 1`](https://youtu.be/i8D90DkCLhI)|
+| 3ra | []()
 
 
 
