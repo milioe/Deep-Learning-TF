@@ -189,4 +189,22 @@ def make_confusion_matrix(y_true, y_pred, classes=None, figsize=(10, 10), text_s
              color="white" if cm[i, j] > threshold else "black",
              size=text_size)
 
+
+def view_random_image(target_dir, target_class):
+  # Establece el folder objetivo
+  target_folder = target_dir+target_class
+
+  # Obten una muestra aleatoria del dataset
+  random_image = random.sample(os.listdir(target_folder), 1)
+
+  # Lee la imagen y haz un plot usando matplotlib
+  img = mpimg.imread(target_folder + "/" + random_image[0])
+  plt.imshow(img) # muestra imagen
+  plt.title(target_class) # clase como titulo
+  plt.axis("off"); 
+
+  print(f"Image shape: {img.shape}") # Imprime shape de la imagen
+
+  return img
+
   
