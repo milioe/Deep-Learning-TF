@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import itertools
 from sklearn.metrics import confusion_matrix
+import random
 
 def plot_decision_boundary(model, X, y):
   """
