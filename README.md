@@ -20,7 +20,7 @@ Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 | Convolucionales | [`Clasificación de Pizza y Sushi`](https://colab.research.google.com/drive/1LoeSSrRr8Fl7UxWKcch4yRgC0oSReSHj?usp=sharing), [`Clasificación de 10 comidas`](https://colab.research.google.com/drive/1lzShYnxY1Qusyyv9poBYh9oza7zoTnLN?usp=sharing), [`Clasificación de pinturas`](), [`Gradio: App`](),  | [Convolucionales](https://github.com/milioe/Deep-Learning-TF/blob/main/Slides/Convolucionales.pdf) | [Asignación 4: Hot Dogs & Tacos](https://colab.research.google.com/drive/1A3fVVhvcbWvIzjnkks3UiolkJkGr-1is?usp=sharing) | [`Señales de tráfico`](), [`Marca de coches`]()| [`Pizza & sushi`](https://mendelbeer.com.mx/pizza_sushi.zip), [`Hotdog & Tacos`](https://mendelbeer.com.mx/hotdog_tacos.zip), [`10 food`](https://mendelbeer.com.mx/10_food_classes.zip), [`Paintings`]() |
 | Transfer Learning | [`Feature Extraction`](), [`Fine Tunning`](), [`Scaling Up`](), [`Style Transfer`]() | [Transfer Learning]() |[Asignación 5: 101 Food](), [Asignación 6: La mejor pintura]() | |
 | Secuenciales | [`Clasificación de Tweets`](), [`Image Captioning`](), [`Precio de AAPL`](), [`Store Sales`]() | [Secuenciales]() | [Asignación 7: Sentimientos de Twitter]() |   [`Equipo 1: Financial Sentiment Analysis`](), [`Equipo 2: Amazon Reviews`](), [`Equipo 1: Precio de oro`](), [`Equipo 2: Pasajeros de aerolinea`]()| |
-| Proyecto final | [`Gravity AI`]() | | [Asignación 8: Proyecto final]() | |
+| Proyecto final | [`Gravity AI`]() | [Ideas finales y cierre de curso]() | [Asignación 8: Proyecto final]() | |
 
 
 
