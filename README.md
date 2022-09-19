@@ -40,7 +40,8 @@ Clasificación | [Can a Model Be Differentially Private and Fair?](https://pair.
 Clasificación | [Visualising Activation Functions in Neural Networks](https://dashee87.github.io/deep%20learning/visualising-activation-functions-in-neural-networks/) | Visualización de computación de función de activación
 Convolucionales | [CNN Explainer](https://poloclub.github.io/cnn-explainer/) | Visualización de entrenamiento de una red convolucional así como sus hiperparámetros
 Convolucionales | [Video: CNN Visualization](https://youtu.be/f0t-OCG79-U) | 
-Convolucionales | [VIde: VGG16 Neural Network Visualization](https://youtu.be/RNnKtNrsrmg)
+Convolucionales | [Video: VGG16 Neural Network Visualization](https://youtu.be/RNnKtNrsrmg)
+Convolucionales | [Video: Grad-CAM: una explicación visual](https://youtu.be/h9Y3FI_3lBw)
 Secuenciales | [Embeding Projector](https://projector.tensorflow.org/) | Visualizar un embedding
 Secuenciales | [What have language model learned?](https://pair.withgoogle.com/explorables/fill-in-the-blank/) | Aprendizaje de modelos secuenciales
 
