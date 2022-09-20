@@ -69,6 +69,7 @@ Recurso| Comentario
 [Combining heuristics with neural networks](https://portfolios.cs.earlham.edu/wp-content/uploads/2019/05/Combining_heuristics_with_neural_networks__488_3.pdf) | 
 [Can Computers Learn Common Sense?](https://www.newyorker.com/tech/annals-of-technology/can-computers-learn-common-sense)| 
 [Repositorio: Symmetry and Geometry in Neural Representations](https://github.com/neurreps/awesome-neural-geometry) | Geometric Deep Learning
+[Bnomial](https://today.bnomial.com/) | Preguntas diarias sobre Machine Learning y Deep Learning
 
 
 
