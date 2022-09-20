@@ -42,6 +42,7 @@ Convolucionales | [CNN Explainer](https://poloclub.github.io/cnn-explainer/) | V
 Convolucionales | [Video: CNN Visualization](https://youtu.be/f0t-OCG79-U) | 
 Convolucionales | [Video: VGG16 Neural Network Visualization](https://youtu.be/RNnKtNrsrmg)
 Convolucionales | [Video: Grad-CAM: una explicación visual](https://youtu.be/h9Y3FI_3lBw)
+Convolucionales | [TensorSpace.js](https://tensorspace.org/index.html) | 
 Secuenciales | [Embeding Projector](https://projector.tensorflow.org/) | Visualizar un embedding
 Secuenciales | [What have language model learned?](https://pair.withgoogle.com/explorables/fill-in-the-blank/) | Aprendizaje de modelos secuenciales
 
