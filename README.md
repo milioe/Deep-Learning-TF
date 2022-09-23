@@ -72,7 +72,7 @@ Recurso| Comentario
 [Repositorio: Symmetry and Geometry in Neural Representations](https://github.com/neurreps/awesome-neural-geometry) | Geometric Deep Learning
 [Bnomial](https://today.bnomial.com/) | Preguntas diarias sobre Machine Learning y Deep Learning
 [Neural Networks Intuitions: 8. Translation Invariance in Object Detectors](https://towardsdatascience.com/neural-networks-intuitions-8-translation-invariance-in-object-detectors-21db6e27879c)
-
+ 
 
 
 
