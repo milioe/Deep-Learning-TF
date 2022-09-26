@@ -54,7 +54,7 @@ Secuenciales | [Visualizing memorization in RNNs](https://distill.pub/2019/memo
 | 1ra | [`Heuristics That Almost Always Work`](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?fbclid=IwAR2TfPVUSPfQ6NprLyOz_jBaUKT2El-p7xAv0bZswD_sbGnSS5ewT7Z3YoY&r=c1qut), [`How to Win at Deep Learning`](https://www.quantamagazine.org/how-to-win-at-deep-learning-20171009/), [`Real Artificial Intelligence: Understanding Extrapolation vs Generalization`](https://towardsdatascience.com/real-artificial-intelligence-understanding-extrapolation-vs-generalization-b8e8dcf5fd4b#:~:text=This%20may%20also%20be%20referred,from%20a%20lower%2Ddimensional%20training) |
 | 2da | [`Why are Data Scientists obsessed over this Graph?`](https://youtu.be/5e1vO6AwoQw), [`Learning to see, part 1`](https://youtu.be/i8D90DkCLhI)|
 | 3ra | | 
-| 4ta | [`C4W4L06 ¿Qué es la transferencia de estilo neuronal?](https://youtu.be/R39tWYYKNcI`) | 
+| 4ta | [`C4W4L06 ¿Qué es la transferencia de estilo neuronal?`](https://youtu.be/R39tWYYKNcI) | 
 | 5ta | [`Precisión frente a recuperación con un claro ejemplo de precisión y recuperación`](https://youtu.be/qWfzIYCvBqo), [`Dot CSV:  INTRO al Natural Language Processing (NLP)`](https://youtu.be/Tg1MjMIVArc) |
 
 
