@@ -45,6 +45,7 @@ Convolucionales | [Video: Grad-CAM: una explicación visual](https://youtu.be/h
 Convolucionales | [TensorSpace.js](https://tensorspace.org/index.html) | 
 Secuenciales | [Embeding Projector](https://projector.tensorflow.org/) | Visualizar un embedding
 Secuenciales | [What have language model learned?](https://pair.withgoogle.com/explorables/fill-in-the-blank/) | Aprendizaje de modelos secuenciales
+Secuenciales | [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/) | RNN
 
 
 # Lecturas y videos de cada semana
@@ -54,6 +55,7 @@ Secuenciales | [What have language model learned?](https://pair.withgoogle.com/
 | 2da | [`Why are Data Scientists obsessed over this Graph?`](https://youtu.be/5e1vO6AwoQw), [`Learning to see, part 1`](https://youtu.be/i8D90DkCLhI)|
 | 3ra | | 
 | 4ta | [C4W4L06 ¿Qué es la transferencia de estilo neuronal?](https://youtu.be/R39tWYYKNcI) | 
+| 5ta | [Precisión frente a recuperación con un claro ejemplo de precisión y recuperación](https://youtu.be/qWfzIYCvBqo), [Dot CSV:  INTRO al Natural Language Processing (NLP)](https://youtu.be/Tg1MjMIVArc) |
 
 
 
