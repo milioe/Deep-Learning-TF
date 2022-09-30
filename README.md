@@ -6,6 +6,7 @@ Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 
 
 * [Temario del curso (whimsical)](https://whimsical.com/temario-machine-learning-y-deep-learning-QRJaTfDhrxB2XEPsqxDDr4)
+* [UTILS](https://mendelbeer.com.mx/utils.py)
 * [TypeForm del curso](https://tz2qqz0vdh1.typeform.com/to/k75RPzK0)
 
 
