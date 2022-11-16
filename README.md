@@ -8,12 +8,7 @@ Acá encontrarás toda la información necesaria para llevar a cabo este curso.
 * [Temario del curso (whimsical)](https://whimsical.com/temario-machine-learning-y-deep-learning-QRJaTfDhrxB2XEPsqxDDr4)
 * [UTILS](https://mendelbeer.com.mx/utils.py)
 
-# 🚨🚨🚨 Importante 🚨🚨🚨
 
-Chicos, les dejamos el link para descargar el libro de *Zero to One*. Lo dejaré unos cuantos días únicamente:
-
-* [.epub](https://github.com/milioe/Econometrics/raw/main/Otros/Zero%20to%20One%20Notes%20on%20Startups%2C%20or%20How%20to%20Build%20the%20Future.epub)
-* [Amazon](https://www.amazon.com.mx/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=18W5N9WC6B0LL&keywords=zero+to+one&qid=1668466435&qu=eyJxc2MiOiIwLjk0IiwicXNhIjoiMC45MyIsInFzcCI6IjAuODEifQ%3D%3D&sprefix=zero+to+one%2Caps%2C219&sr=8-1)
 
 
 # Unidades 
