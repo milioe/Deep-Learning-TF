@@ -37,6 +37,7 @@ Introducción teórica | [AI Notes](https://www.deeplearning.ai/ai-notes/) | Ini
 Introducción teórica | [Affine Transformations](https://www.algorithm-archive.org/contents/affine_transformations/affine_transformations.html) | Transformaciones afínes junto con su explicación
 Introducción teórica | [NN SVG](http://alexlenail.me/NN-SVG/index.html)| Redes neuronales de forma interactiva
 Introducción teórica | [Is the gradient function increasing or decreasing on this curve?](https://undergroundmathematics.org/calculus-of-powers/r7433/solution)
+Introducción teórica | [Why are neural networks so effective?](https://youtu.be/-at7SLoVK_I)
 Tensores | [Matrix Multiplication](http://matrixmultiplication.xyz/) | Multiplicación de matrices de forma interactiva
 Regresión | [TensorFlow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.59859&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) | Entrenamiento de una red neuronal de forma interactiva 
 Clasificación | [Can a Model Be Differentially Private and Fair?](https://pair.withgoogle.com/explorables/private-and-fair/) | Artículo de clasificación de dígitos
